@@ -7,14 +7,14 @@
 }
 
 @media screen and (max-width: 1023px) {
-  .photo-grid  {
+  .photo-grid {
     margin: 88px 24px 0 24px;
 
   }
 }
 
 @media screen and (max-width: 767px) {
-  .photo-grid  {
+  .photo-grid {
     margin: 64px 16px 0 16px;
 
   }
