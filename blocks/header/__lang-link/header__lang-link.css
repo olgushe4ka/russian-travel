@@ -9,12 +9,13 @@
 }
 
 
-.header__lang-link:focus {
-  text-decoration-line: underline;
-}
 
 .header__lang-link:not(:first-child) {
   padding-left: 18px;
+}
+
+.header__lang-link:hover {
+ opacity: .8;
 }
 
 @media screen and (max-width: 767px) {
