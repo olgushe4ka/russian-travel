@@ -6,20 +6,15 @@
   line-height: 16px;
 }
 
-
 @media screen and (max-width: 1023px) {
-
   .footer__copyright {
     margin-right: 24px;
   }
-
 }
 
 @media screen and (max-width: 767px) {
-
   .footer__copyright {
     line-height: 14px;
     margin: 48px 0 24px 16px;
   }
-
 }

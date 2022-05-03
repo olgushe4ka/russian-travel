@@ -1,17 +1,9 @@
 .cover {
   max-width: 1184px;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  height: 740px;
   margin: auto;
   margin-top: 90px;
 }
-
-.cover:hover .cover__overlay {
-  opacity: 0.8;
-}
-
 
 @media screen and (max-width: 767px) {
   .cover {

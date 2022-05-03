@@ -1,5 +1,32 @@
 .cover__backround {
+  background-image: url(../../../images/cover-trains.jpg);
   width: 100%;
-  object-fit: cover;
+  background-size: cover;
+  background-position: center;
+  padding: 10px;
+  aspect-ratio: 16 / 10;
+  position: relative;
+  text-decoration: none;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.cover__backround::after {
+  background: rgba(42, 44, 47, .3);
+  content: '';
   width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 2;
+}
+
+.cover__backround:hover:before {
+  background: rgba(42, 44, 47, .5);
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 2;
+
 }

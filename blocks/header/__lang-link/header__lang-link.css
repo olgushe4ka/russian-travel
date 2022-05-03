@@ -8,8 +8,6 @@
   line-height: 28px;
 }
 
-
-
 .header__lang-link:not(:first-child) {
   padding-left: 18px;
 }
