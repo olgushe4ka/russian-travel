@@ -1,9 +1,0 @@
-.place__link {
-  margin: 0;
-  color: #FFFFFF;
-  text-decoration-line: underline;
-}
-
-.place__link:hover {
-  opacity: .8;
-}
