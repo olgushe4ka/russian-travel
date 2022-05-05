@@ -10,6 +10,8 @@
   justify-self: center;
   text-align: center;
   z-index: 3;
+  padding-bottom: 16px;
+  align-self: center;
 }
 
 @media screen and (max-width: 767px) {
@@ -17,5 +19,6 @@
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
+    padding-bottom: 8px;
   }
 }
