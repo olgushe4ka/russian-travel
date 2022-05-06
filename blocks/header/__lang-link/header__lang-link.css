@@ -8,7 +8,7 @@
 }
 
 .header__lang-link:not(:first-child) {
-  padding-left: 18px;
+  padding-left: 15px;
 }
 
 .header__lang-link:hover {

@@ -21,5 +21,4 @@
 
 .cover__backround:hover:before {
   background: rgba(42, 44, 47, .8);
-  content: '';
 }
