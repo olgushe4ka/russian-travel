@@ -20,5 +20,6 @@
     font-size: 32px;
     margin-left: 16px;
     line-height: 35px;
+    align-self: flex-start;
   }
 }
